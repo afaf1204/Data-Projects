@@ -1,4 +1,4 @@
-### 911 Calls Capstone Project
+# 911 Calls Capstone Project
 
 For this capstone project we will be analyzing some 911 call data from [Kaggle](https://www.kaggle.com/mchirico/montcoalert). The data contains the following fields:
 
@@ -21,3 +21,6 @@ The purpose of this project is show step-by-step how to analyze and visualize th
 - Matplotlib
 - Seaborn
 
+## Data and Setup
+# Data Frame Info
+![Data Frame Info](https://github.com/afaf1204/Data-Projects/blob/main/911%20Calls/Images/1.%20DataFrame%20Info.PNG)
