@@ -74,12 +74,15 @@ Data by date:
 ![Groupby date call](https://github.com/afaf1204/Data-Projects/blob/main/911%20Calls/Images/8.%20Groupby%20date%20call.PNG)
 
 Data by Traffic:
+
 ![Trafic Call Reason](https://github.com/afaf1204/Data-Projects/blob/main/911%20Calls/Images/9.%20Traffic%20Call%20Reason.PNG)
 
 Data by Fire:
+
 ![Fire Call Reason](https://github.com/afaf1204/Data-Projects/blob/main/911%20Calls/Images/10.%20Fire%20Call%20Reason.PNG)
 
 Data by EMS:
+
 ![EMS Call Reason](https://github.com/afaf1204/Data-Projects/blob/main/911%20Calls/Images/11.%20EMS%20Call%20Reason.PNG)
 
 ### HeatMap and ClusterMap Data
