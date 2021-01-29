@@ -69,6 +69,7 @@ With simple plot and lmplot, we can see the data from month 9 to 11.
 
 ### Visualize Available Data
 For further understanding, we can visualize the available data. We can visualize the data by date and by departments.
+
 Data by date:
 
 ![Groupby date call](https://github.com/afaf1204/Data-Projects/blob/main/911%20Calls/Images/8.%20Groupby%20date%20call.PNG)
