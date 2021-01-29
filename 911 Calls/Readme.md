@@ -22,5 +22,9 @@ The purpose of this project is show step-by-step how to analyze and visualize th
 - Seaborn
 
 ## Data and Setup
-# Data Frame Info
+### Data Frame Info
+After import all the libraries needed, I check the info() and head() of the data frame.
 ![Data Frame Info](https://github.com/afaf1204/Data-Projects/blob/main/911%20Calls/Images/1.%20DataFrame%20Info.PNG)
+
+### Data Frame Head
+![Data Frame Head](https://github.com/afaf1204/Data-Projects/blob/main/911%20Calls/Images/2.%20DataFrame%20Head.PNG)
