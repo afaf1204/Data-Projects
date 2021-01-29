@@ -29,3 +29,8 @@ After imported all the libraries needed, I check the info() and head() of the da
 
 ### Data Frame Head
 ![Data Frame Head](https://github.com/afaf1204/Data-Projects/blob/main/911%20Calls/Images/2.%20DataFrame%20Head.PNG)
+
+### Reason Countplot
+In this section, I will show you the countplot from the reason of all 911 calls. Before do this, I create a new feature from the title column where I split the reason and the department, where I got EMS, Traffic, and Fire departments.
+![Reason Countplot](https://github.com/afaf1204/Data-Projects/blob/main/911%20Calls/Images/3.%20Reason%20Countplot.PNG)
+
