@@ -22,12 +22,12 @@ In this data project we will focus on exploratory data analysis of stock prices.
 
 ## Data and Setup
 In this section, I want to show some of the data information, it includes Data Frame Info and Data Frame Head. We use stock information from the following bank:
-- Bank of America
-- CitiGroup
-- Goldman Sachs
-- JPMorgan Chase
-- Morgan Stanley
-- Wells Fargo
+- Bank of America (BAC)
+- CitiGroup (C)
+- Goldman Sachs (GS)
+- JPMorgan Chase (JPM)
+- Morgan Stanley (MS)
+- Wells Fargo (WF)
 
 Data Frame Head:
 
