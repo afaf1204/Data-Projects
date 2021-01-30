@@ -2,10 +2,10 @@
 
 
 
-##Get the Data
+## Get the Data
 
 In this section we will learn how to use pandas to directly read data from Google finance using pandas!
-But I got problems when reading the data through Google finance, the reason is Google has discontinued the API, so I use the all_banks file instead.
+But I got problems when reading the data through Google finance, the reason is Google has discontinued the API, so I use the [all_banks file](https://github.com/afaf1204/Data-Projects/blob/main/Finance%20Project/all_banks) instead.
 
 ## Project Intro/Objective
 In this data project we will focus on exploratory data analysis of stock prices. Keep in mind, this project is just meant to practice your visualization and pandas skills, it is not meant to be a robust financial analysis or be taken as financial advice.
